@@ -212,6 +212,10 @@ dependencies {
         transitive = false
     }
 
+    // Required to compile against the Graal types exposed by Integrated Scripting's API.
+    // https://mvnrepository.com/artifact/org.graalvm.sdk/graal-sdk
+    compileOnly "org.graalvm.sdk:graal-sdk:${project.graal_version}"
+
     modLib "com.google.re2j:re2j:1.1"
     modLib ("io.netty:netty-codec-http:4.1.77.Final") {
         transitive = false

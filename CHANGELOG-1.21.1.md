@@ -1,8 +1,16 @@
 # Changelog for Minecraft 1.21.1
 All notable changes to this project will be documented in this file.
 
+<a name="1.21.1-1.1.3"></a>
+## [1.21.1-1.1.3](https://github.com/CyclopsMC/IntegratedMekanism/compare/1.21.1-1.1.2...1.21.1-1.1.3) - 2026-09-12 10:03:39
+
+
+### Changed
+* Follow the storage terminal handler's tooltip elements parameter (#29)
+  Aligns to the API changes in CyclopsMC/IntegratedTerminals#216
+
 <a name="1.21.1-1.1.2"></a>
-## [1.21.1-1.1.2](https://github.com/CyclopsMC/IntegratedMekanism/compare/1.21.1-1.1.1...1.21.1-1.1.2) - 2026-09-06 16:41:34
+## [1.21.1-1.1.2](https://github.com/CyclopsMC/IntegratedMekanism/compare/1.21.1-1.1.1...1.21.1-1.1.2) - 2026-09-06 16:41:34 +0200
 
 
 ### Fixed

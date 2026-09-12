@@ -12,8 +12,8 @@ import org.cyclops.integratedmekanism.value.ValueObjectTypeChemicalStack;
 import org.cyclops.integratedscripting.api.evaluate.translation.IEvaluationExceptionFactory;
 import org.cyclops.integratedscripting.evaluate.ScriptHelpers;
 import org.cyclops.integratedscripting.evaluate.translation.ValueTranslators;
-import org.cyclops.integratedscripting.vendors.org.graalvm.polyglot.Context;
-import org.cyclops.integratedscripting.vendors.org.graalvm.polyglot.Value;
+import org.graalvm.polyglot.Context;
+import org.graalvm.polyglot.Value;
 
 /**
  * @author rubensworks

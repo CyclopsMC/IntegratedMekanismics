@@ -1,0 +1,6 @@
+As always, don't forget to backup your world before updating!
+Requires CyclopsCore version 1.30.0 or higher.
+
+Changes:
+* Follow the storage terminal handler's tooltip elements parameter (#29)
+  Aligns to the API changes in CyclopsMC/IntegratedTerminals#216
